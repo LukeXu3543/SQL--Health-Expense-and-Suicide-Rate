@@ -14,3 +14,4 @@ Explannation:
 
 Mental Health Expenditure index: Government expenditures on mental hospitals means the government expenditures on mental hospitals as a percentage of total government expenditures on mental health. Nominator: Mental hospital expenditures (in local currency) / Denominator: Total mental health expenditures (in local currency).
 
+Also please note that not every country is included in the dataset, and the analysis and result cannot be a representation of the world.
